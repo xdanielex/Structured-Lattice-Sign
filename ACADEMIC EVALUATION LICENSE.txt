@@ -1,0 +1,27 @@
+ACADEMIC EVALUATION LICENSE
+
+Copyright (c) 2026 Daniele Rufo
+Project: Structured-Lattice-Sign
+
+1. GRANT OF LICENSE
+This software is provided in executable form exclusively for academic evaluation, 
+cryptographic benchmarking, and non-commercial research purposes. 
+
+2. SYSTEM REQUIREMENTS & TARGET
+The provided executable is compiled specifically for Windows 11 (64-bit) systems. 
+It is intended solely as a proof-of-concept for the security reduction 
+described in the project documentation.
+
+3. RESTRICTIONS
+- You may NOT decompile, reverse engineer, or disassemble the executable.
+- You may NOT redistribute the software or host it on other platforms.
+- You may NOT use this software for any commercial purposes or production environments.
+
+4. COMMERCIAL USE AND COLLABORATIONS
+This project is part of a potential patent disclosure. For any commercial inquiries, 
+production-grade licensing, or research collaborations, please contact the 
+author directly at: [LA TUA EMAIL]
+
+5. NO WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. THE AUTHOR IS 
+NOT RESPONSIBLE FOR ANY SYSTEM INSTABILITY OR DATA LOSS.
