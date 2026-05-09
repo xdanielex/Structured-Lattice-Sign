@@ -20,7 +20,7 @@ described in the project documentation.
 4. COMMERCIAL USE AND COLLABORATIONS
 This project is part of a potential patent disclosure. For any commercial inquiries, 
 production-grade licensing, or research collaborations, please contact the 
-author directly at: [LA TUA EMAIL]
+author directly at: xdaniele.rufox@gmail.com
 
 5. NO WARRANTY
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. THE AUTHOR IS 
