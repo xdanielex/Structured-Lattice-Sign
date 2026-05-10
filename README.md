@@ -62,3 +62,9 @@ Academic Evaluation License. This project is part of a potential patent disclosu
 
 ---
 *© 2026 - Daniele Rufo | Structured Lattice Signature Project*
+---
+
+### Support my Research 🚀
+If you find this project useful for your benchmarks or academic evaluation, consider supporting my independent research:
+
+[![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://paypal.me/xdanielex272)
