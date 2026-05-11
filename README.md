@@ -64,7 +64,16 @@ Academic Evaluation License. This project is part of a potential patent disclosu
 *© 2026 - Daniele Rufo | Structured Lattice Signature Project*
 ---
 
+---
+
 ### Support my Research 🚀
 If you find this project useful for your benchmarks or academic evaluation, consider supporting my independent research:
 
 [![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://paypal.me/xdanielex272)
+[![Donate with BTC](https://img.shields.io/badge/Donate-Bitcoin-orange.svg)](#)
+[![Donate with USDT](https://img.shields.io/badge/Donate-Tether-green.svg)](#)
+
+* **Bitcoin (BTC):** `bc1q4l9v8welwr6mp4g6uc2t7ex0n274malynq6yqj`
+* **Tether (USDT - TRC20):** `TA3m7pqk1mTgZtFQHf7KufAqnaqsN95kPh`
+
+---
