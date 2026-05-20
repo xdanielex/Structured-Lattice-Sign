@@ -13,6 +13,14 @@ The signature scheme uses a Fiat-Shamir transform with a seed-expanded module ma
 For a detailed mathematical explanation, security reductions, and formal proofs of the scheme, please refer to the technical paper included in this repository:
 * [**signature.pdf**](./signature.pdf)
 
+### 🌐 Official Academic Publication (Zenodo)
+The theoretical foundations and full technical specifications of this research have been officially published and archived on **Zenodo**:
+
+👉 **[Read the official paper on Zenodo](https://zenodo.org/records/20303388)**
+
+**How to cite:**
+Rufo, D. (2026). A Structured Post-Quantum Signature Scheme Derived from a Parametric KEM Paradigm. Zenodo. https://doi.org/10.5281/zenodo.20303388
+
 ### Prerequisites
 To run the executable on Windows 11, the following OpenSSL 3.x libraries must be present in the same folder:
 * `libcrypto-3-x64.dll`
